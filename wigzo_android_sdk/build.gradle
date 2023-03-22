@@ -4,7 +4,6 @@ plugins {
 }
 
 android {
-    namespace 'com.wigzo.sdk'
     compileSdk 33
 
     defaultConfig {
